@@ -1,6 +1,6 @@
 export default function Page() {
   return <div className="w-screen">
-    <div className="h-[100px] bg-slate-500/10 mb-8"></div>
+    <div className="h-[100px] bg-slate-500/10 mb-8 text-center justify-center items-center flex text-2xl text-slate-300 font-bold">2025-07-30</div>
     <div className="max-w-[980px] mx-auto bg-gray-500/10 relative">
       <div className="panel-left">
         <div className="flex flex-col gap-4 p-2 mx-auto md:m-0 md:p-4 w-[380px] md:w-[400px] md:min-h-[300px] lg:w-[480px] lg:min-h-[400px]  text-center md:text-left">
